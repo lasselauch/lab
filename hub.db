@@ -1,0 +1,382 @@
+{
+    "1": {
+        "info": {
+            "name": "Simple Spline", 
+            "tags": [
+                "workflow", 
+                "object-manager"
+            ], 
+            "version": "1.0", 
+            "date": "22/11/2015", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Nothing more than a simple Spline. Press Modifier-Keys for different Axis."
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/simple-spline/simple-spline.py"
+    }, 
+    "2": {
+        "info": {
+            "name": "Create Selection-Object", 
+            "tags": [
+                "workflow", 
+                "object-manager"
+            ], 
+            "version": "0.9", 
+            "date": "17/04/2018", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Quickly create a Selection-Object of selected Objects"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/create-selection-object/create-selection-object.py"
+    }, 
+    "3": {
+        "info": {
+            "name": "Toggle Visibility of Selected Objects", 
+            "tags": [
+                "workflow", 
+                "object-manager", 
+                "viewport"
+            ], 
+            "version": "1.0", 
+            "date": "22/11/2015", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "[Without Modifier] All Red \u2013 [CTRL] Default \u2013 [SHIFT] All Green \u2013 [CTRL+SHIFT] Red/Green \u2013 [ALT+SHIFT] Green/Red"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/toggle-visibility/toggle-visibility.py"
+    }, 
+    "4": {
+        "info": {
+            "name": "Simple Material Renamer", 
+            "tags": [
+                "workflow", 
+                "object-manager"
+            ], 
+            "version": "1.0", 
+            "date": "16/11/2016", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "The famous C4D-Renamer-Pack \u2013 Use in conjunction with Simple Object Renamer"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/simple-material-renamer/simple-material-renamer.py"
+    }, 
+    "5": {
+        "info": {
+            "name": "Import Adobe Swatches", 
+            "tags": [
+                "workflow", 
+                "object-manager", 
+                "colors"
+            ], 
+            "version": "1.0", 
+            "date": "03/08/2020", 
+            "compatibility": [
+                "R21", 
+                "latest"
+            ], 
+            "desc": "Quickly import swatches with different Options from color.adobe.com"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/import-adobe-color/import-adobe-color.py"
+    }, 
+    "6": {
+        "info": {
+            "name": "Quick-Folder", 
+            "tags": [
+                "workflow", 
+                "os"
+            ], 
+            "version": "1.0", 
+            "date": "11/01/2019", 
+            "compatibility": [
+                "R17", 
+                "latest"
+            ], 
+            "desc": [
+                "ShortcuttoopenyourDocument", 
+                "Render-FolderandopenyourRenderinginanyViewer."
+            ]
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/quick-folder/quick-folder.py"
+    }, 
+    "7": {
+        "info": {
+            "name": "quick-sel", 
+            "tags": [
+                "workflow", 
+                "object-manager", 
+                "tags"
+            ], 
+            "version": "1.0", 
+            "date": "09/08/2019", 
+            "compatibility": [
+                "R20", 
+                "latest"
+            ], 
+            "desc": "A quick Selection-Menu for last selected Objects/Tags. (Idea by Lars Jandel)"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/quick-sel/quick-sel.py"
+    }, 
+    "8": {
+        "info": {
+            "name": "RS-HDRLINK", 
+            "tags": [
+                "workflow", 
+                "object-manager", 
+                "render", 
+                "redshift"
+            ], 
+            "version": "1.0", 
+            "date": "04/01/2019", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Poorman's HDRLINK for Redshift"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/rs-hdrlink/rs-hdrlink.py"
+    }, 
+    "9": {
+        "info": {
+            "name": "Simple Object Renamer", 
+            "tags": [
+                "workflow", 
+                "object-manager"
+            ], 
+            "version": "1.0", 
+            "date": "22/11/2016", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "The famous C4D-Renamer-Pack \u2013 Use in conjunction with Simple Material Renamer"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/simple-object-renamer/simple-object-renamer.py"
+    }, 
+    "10": {
+        "info": {
+            "name": "Fit FFD-Deformer to Selection", 
+            "tags": [
+                "workflow", 
+                "object-manager", 
+                "deformer"
+            ], 
+            "version": "0.1", 
+            "date": "19/11/2018", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Quickly fit FFD-Deformer to your Selection. Known Limitations \u2013 doesn't respect Normal-Orientation"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/fit-ffd-to-selection/fit-ffd-to-selection.py"
+    }, 
+    "11": {
+        "info": {
+            "name": "Displayfilter ON/OFF", 
+            "tags": [
+                "workflow", 
+                "hud", 
+                "viewport"
+            ], 
+            "version": "1.0", 
+            "date": "08/01/2016", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Quickly toggle the Display-Filter."
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/display-filter-toggle/display-filter-toggle.py"
+    }, 
+    "12": {
+        "info": {
+            "name": "Group Objects / PSR Zero", 
+            "tags": [
+                "workflow", 
+                "object-manager"
+            ], 
+            "version": "1.0", 
+            "date": "04/08/2017", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Group Objects and keep PSR at 0 \u2013 If last selected Object has Layer"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/group-objects-psr-zero/group-objects-psr-zero.py"
+    }, 
+    "13": {
+        "info": {
+            "name": "Toggle Deformer", 
+            "tags": [
+                "workflow", 
+                "object-manager", 
+                "deformer"
+            ], 
+            "version": "1.0", 
+            "date": "20/11/2018", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Toggles Deformer/Mograph-Effector/Forces & Fields Viewport-Visibility. [CTRL-Click] for Reset. [SHIFT-Click] for Solo."
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/toggle-deformer/toggle-deformer.py"
+    }, 
+    "14": {
+        "info": {
+            "name": "Add Null to Selection", 
+            "tags": [
+                "workflow", 
+                "object-manager"
+            ], 
+            "version": "2.0", 
+            "date": "04/01/2016", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Create a Null-Object at current Selection. Different Modifier-Keys explained in Script..!"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/add-null-to-selection/add-null-to-selection.py"
+    }, 
+    "15": {
+        "info": {
+            "name": "Copy/Paste between C4D-Versions", 
+            "tags": [
+                "workflow", 
+                "object-manager"
+            ], 
+            "version": "1.0", 
+            "date": "01/11/2019", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "CTRL-CLICK \u2013 Copy (converted) selected Objects"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/c4d-copy-paste/c4d-copy-paste.py"
+    }, 
+    "16": {
+        "info": {
+            "name": "Transfer Objects to last selected", 
+            "tags": [
+                "workflow", 
+                "object-manager"
+            ], 
+            "version": "1.0", 
+            "date": "01/12/2015", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Different Modifier-Keys explained in Script..!"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/transfer-objects-to-last-selected/transfer-objects-to-last-selected.py"
+    }, 
+    "17": {
+        "info": {
+            "name": "Delete all Tracks", 
+            "tags": [
+                "workflow", 
+                "object-manager", 
+                "animation"
+            ], 
+            "version": "1.0", 
+            "date": "25/11/2015", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "Quickly delete all animated Tracks of selected Objects"
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/delete-all-tracks/delete-all-tracks.py"
+    }, 
+    "18": {
+        "info": {
+            "name": "Pick FocusDistance", 
+            "tags": [
+                "workflow", 
+                "object-manager", 
+                "viewport", 
+                "hud"
+            ], 
+            "version": "1.0", 
+            "date": "30/11/2017", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": [
+                "QuicklypicktheFocusDistancefromwithinyourViewport\u2013CreateaShortcut", 
+                "forExample[<]"
+            ]
+        }, 
+        "type": "scripts", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/scripts/pick-focus-distance/pick-focus-distance.py"
+    }, 
+    "19": {
+        "info": {
+            "name": "take-hud-helper", 
+            "tags": [
+                "workflow", 
+                "takes", 
+                "hud", 
+                "viewport"
+            ], 
+            "version": "0.1.4", 
+            "date": "07/11/2020", 
+            "compatibility": [
+                "R18", 
+                "latest"
+            ], 
+            "desc": "Gives you a better indicator when working with takes."
+        }, 
+        "type": "presets", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/presets/take-hud-helper/take-hud-helper.c4d"
+    }, 
+    "20": {
+        "info": {
+            "name": "mograph-to-nulls", 
+            "tags": [
+                "workflow", 
+                "object-manager", 
+                "mograph"
+            ], 
+            "version": "1.0", 
+            "date": "07/11/2018", 
+            "compatibility": [
+                "R16", 
+                "latest"
+            ], 
+            "desc": "The awesome Xpresso/Coffee Script from Per Anders ported to Python."
+        }, 
+        "type": "presets", 
+        "file": "/Users/lasse/Dropbox/github/c4d-hub/src/presets/mograph-to-nulls/mograph-to-nulls.c4d"
+    }
+}
